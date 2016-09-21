@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test24_Service</string>
+    <string name="startservice">StartService</string>
+    <string name="closeservice">CloseService</string>
+</resources>
